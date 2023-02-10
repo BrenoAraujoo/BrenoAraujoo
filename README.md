@@ -28,7 +28,7 @@
 
 <img align="center" alt="git" height="32" src="https://avatars.githubusercontent.com/u/10251060?s=200&v=4">
         
-<img align="center" alt="git" height="32" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-original.svg">
+<img align="center" alt="git" height="32" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/docker/docker-plain.svg">
         
         
 
