@@ -1,7 +1,7 @@
 
 
         - 🚀  Desenvolvedor back end.
-        - 🎓  Graduando em Ciência da Computação.
+        - 🎓  Graduado em Ciência da Computação.
 
 
 
