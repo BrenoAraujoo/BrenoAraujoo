@@ -14,7 +14,7 @@
   <img align="center" alt="csharp" height="38" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   
   <!-- .NET -->
-  <img align="center" alt="dotnet" height="38" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg">
+  <img align="center" alt="dotnet" height="38" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-plain-wordmark.svg">
 
   <!-- Java -->
   <img align="center" alt="java" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg">
